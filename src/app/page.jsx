@@ -204,9 +204,9 @@ export default async function Home() {
         className="mt-24 sm:mt-32 lg:mt-40"
         client={{ name: 'Phobia', logo: logoPhobiaDark }}
       >
-        "Cottle Construction handled our project with care and found smart solutions 
+        Cottle Construction handled our project with care and found smart solutions 
         when challenges came up. Everything stayed on track and the attention to 
-        detail was impressive."
+        detail was impressive.
       </Testimonial>
 
       <Services />

@@ -107,7 +107,7 @@ function ContactForm() {
         )}
 
         <Button type="submit" className="mt-10" disabled={loading}>
-          {loading ? 'Sending...' : "Let's work together"}
+          {loading ? 'Sending...' : "Let&apos;s work together"}
         </Button>
       </form>
     </FadeIn>
@@ -155,7 +155,7 @@ export function ContactClient() {
   return (
     <>
       <PageIntro eyebrow="Contact us" title="Let's work together">
-        <p>We can't wait to hear from you.</p>
+        <p>We can&apos;t wait to hear from you.</p>
       </PageIntro>
 
       <Container className="mt-24 sm:mt-32 lg:mt-40">

@@ -43,7 +43,7 @@ function Culture() {
           dedication to every job.
           </GridListItem>
           <GridListItem title="Trust" invert>
-          We focus on results—when there's work to be done, we get it 
+          We focus on results—when there&apos;s work to be done, we get it 
           done, no matter what it takes.
           </GridListItem>
           <GridListItem title="Commitment" invert>
@@ -120,7 +120,7 @@ function Team() {
                         and dedication to quality have earned him the trust of clients throughout the region.
                       </p>
                       <p className="mt-4 text-base leading-7">
-                        Waldo's vision for Cottle Construction is rooted in traditional values of craftsmanship 
+                        Waldo&apos;s vision for Cottle Construction is rooted in traditional values of craftsmanship 
                         while embracing modern techniques and innovations. Under his leadership, the company 
                         continues to grow while maintaining its commitment to excellence and customer satisfaction.
                       </p>
@@ -157,13 +157,13 @@ export default async function About() {
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>
           Our company was founded on the principles of integrity, reliability, and excellence. 
-          With years of experience in the building industry, we've built a reputation for 
+          With years of experience in the building industry, we&apos;ve built a reputation for 
           delivering exceptional results—on time and within budget.
           </p>
           <p>
           At Cottle Construction, we treat every project as if it were our own, ensuring 
           the highest standards of workmanship while maintaining open and honest communication. 
-          Your vision is our mission, and we're here to bring it to life.
+          Your vision is our mission, and we&apos;re here to bring it to life.
           </p>
         </div>
       </PageIntro>
