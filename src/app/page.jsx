@@ -176,7 +176,7 @@ function Services() {
 
 export const metadata = {
   description:
-    'We are a development studio working at the intersection of design and technology.',
+    'Cottle Construction is a trusted South African construction company specializing in residential and commercial building, waterproofing, painting, plumbing, electrical services, and swimming pool construction.',
 }
 
 export default async function Home() {
